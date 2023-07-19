@@ -6,7 +6,7 @@ title: Angela Domingo's Resume
 Incoming BTA Quantitative Services Analyst at EY | Accounting Major & Computer Information Technology Minor
 
 <div id="webaddress">
-<a href="dom18001@byui.edu">datascience@byui.edu</a>
+<a href="dom18001@byui.edu">dom18001@byui.edu</a>
 | <a href="https://www.linkedin.com/in/angelambd/">LinkedIn</a>
 | <a href="https://angelambd.github.io/domingo_resume/">GitHub</a>
 </div>
